@@ -2,3 +2,4 @@ this is txt file haha
 Menambahkan baris kedua 
 Menambahkan baris ketiga 
 Menambahkan baris keempat
+
